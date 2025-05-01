@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PartTimeStaffHire
+comment0.text=\r\n\ PartTimeStaffHire\ class,\ subclass\ of\ StaffHire\ class.\ \r\n\ To\ add,\ create\ and\ modify\ PART\ TIME\ staff\ members.\r\n\r\n\ @author\ Kouresh\ TAYABALY\r\n\ @version\ 01/05/2025\r\n
+comment1.params=vacancyNumber\ designation\ jobType\ staffName\ joiningDate\ qualification\ appointedBy\ joined\ workingHours\ wagesPerHour\ shifts
+comment1.target=PartTimeStaffHire(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ int,\ double,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PartTimeStaffHire\r\n
+comment10.params=
+comment10.target=void\ terminateStaff()
+comment11.params=
+comment11.target=void\ display()
+comment2.params=
+comment2.target=int\ getWorkingHours()
+comment3.params=newWorkingHours
+comment3.target=void\ setWorkingHours(int)
+comment4.params=
+comment4.target=double\ getWagesPerHour()
+comment5.params=newWages
+comment5.target=void\ setWagesPerHour(double)
+comment6.params=
+comment6.target=java.lang.String\ getShifts()
+comment7.params=newShifts
+comment7.target=void\ setShifts(java.lang.String)
+comment8.params=
+comment8.target=boolean\ getTerminated()
+comment9.params=isTerminated
+comment9.target=void\ setTerminated(boolean)
+numComments=12
